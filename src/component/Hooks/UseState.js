@@ -15,6 +15,7 @@ const useState = () => {
         <span></span>
         Increment
       </div>
+      
       <div className="button2" onMouseDown={() => setNum(num-1)} onClick={() => setNum(num-1)}>
         <span></span>
         <span></span>
